@@ -74,6 +74,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/lunde/CLionProjects/first/find_max.c">
+			<Option target="first"/>
+		</Unit>
 		<Unit filename="C:/Users/lunde/CLionProjects/first/homework_week_1.c">
 			<Option target="first"/>
 		</Unit>

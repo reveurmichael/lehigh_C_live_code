@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/first.dir/find_max.c.obj"
   "CMakeFiles/first.dir/homework_week_1.c.obj"
   "CMakeFiles/first.dir/main.c.obj"
   "first.exe"

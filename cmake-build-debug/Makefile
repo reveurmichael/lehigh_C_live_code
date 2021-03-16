@@ -122,6 +122,33 @@ first/fast:
 	$(MAKE) -f CMakeFiles\first.dir\build.make CMakeFiles/first.dir/build
 .PHONY : first/fast
 
+find_max.obj: find_max.c.obj
+
+.PHONY : find_max.obj
+
+# target to build an object file
+find_max.c.obj:
+	$(MAKE) -f CMakeFiles\first.dir\build.make CMakeFiles/first.dir/find_max.c.obj
+.PHONY : find_max.c.obj
+
+find_max.i: find_max.c.i
+
+.PHONY : find_max.i
+
+# target to preprocess a source file
+find_max.c.i:
+	$(MAKE) -f CMakeFiles\first.dir\build.make CMakeFiles/first.dir/find_max.c.i
+.PHONY : find_max.c.i
+
+find_max.s: find_max.c.s
+
+.PHONY : find_max.s
+
+# target to generate assembly for a file
+find_max.c.s:
+	$(MAKE) -f CMakeFiles\first.dir\build.make CMakeFiles/first.dir/find_max.c.s
+.PHONY : find_max.c.s
+
 homework_week_1.obj: homework_week_1.c.obj
 
 .PHONY : homework_week_1.obj
@@ -185,6 +212,9 @@ help:
 	@echo ... first
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... find_max.obj
+	@echo ... find_max.i
+	@echo ... find_max.s
 	@echo ... homework_week_1.obj
 	@echo ... homework_week_1.i
 	@echo ... homework_week_1.s

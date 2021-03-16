@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/lunde/CLionProjects/first/find_max.c" "C:/Users/lunde/CLionProjects/first/cmake-build-debug/CMakeFiles/first.dir/find_max.c.obj"
   "C:/Users/lunde/CLionProjects/first/homework_week_1.c" "C:/Users/lunde/CLionProjects/first/cmake-build-debug/CMakeFiles/first.dir/homework_week_1.c.obj"
   "C:/Users/lunde/CLionProjects/first/main.c" "C:/Users/lunde/CLionProjects/first/cmake-build-debug/CMakeFiles/first.dir/main.c.obj"
   )
